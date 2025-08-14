@@ -1,7 +1,7 @@
 ## Стек:
-- 🧠 **Языки программирования:** Python, SQL, YAML(базово), HTML(базово)
+- 🧠 **Языки программирования:** Python
 - ⚙️ **Фреймворки / инструменты:** Django, Django REST Framework, PostgreSQL, SQLite
-- 🌐 **Другое:** Git, REST API, Docker, CD/CI, Linux, Nginx, Gunicorn
+- 🌐 **Другое:** SQL, Git, REST API, Docker, CD/CI, Linux, Nginx, Gunicorn
 
 <!--
 **Imago-chkm/Imago-chkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
